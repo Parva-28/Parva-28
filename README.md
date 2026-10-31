@@ -1,4 +1,4 @@
-<a href="https://parvachhatrola.me"><img src="/assets/banner.svg" width="100%" alt="Parva Chhatrola, AI/ML Developer and Full Stack Engineer. 3rd-year B.Tech CSE at CSPIT, CHARUSAT, Gujarat, India. IEEE CS Chair 2025–26. Available for thoughtful work. I build intelligent systems that make complicated things simple."></a>
+<a href="https://parvachhatrola.me"><img src="/assets/banner-light.svg" width="100%" alt="Parva Chhatrola, AI/ML Developer and Full Stack Engineer. 3rd-year B.Tech CSE at CSPIT, CHARUSAT, Gujarat, India. IEEE CS Chair 2025–26. Available for thoughtful work. I build intelligent systems that make complicated things simple."></a>
 
 <p align="center">
   <a href="https://parvachhatrola.me"><img src="/assets/btn-portfolio.svg" height="56" alt="Portfolio: parvachhatrola.me"></a>
