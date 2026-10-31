@@ -1,14 +1,9 @@
-<h1 align="center">Hi, I'm Parva Chhatrola</h1>
+<a href="https://parvachhatrola.me"><img src="/assets/banner.svg" width="100%" alt="Parva Chhatrola, AI/ML Developer and Full Stack Engineer. 3rd-year B.Tech CSE at CSPIT, CHARUSAT, Gujarat, India. IEEE CS Chair 2025–26. Available for thoughtful work. I build intelligent systems that make complicated things simple."></a>
 
 <p align="center">
-  <b>AI/ML Developer and Full Stack Engineer</b><br>
-  3rd-year B.Tech CSE at CSPIT, CHARUSAT · Gujarat, India
-</p>
-
-<p align="center">
-  <a href="https://parvachhatrola.me"><img alt="Portfolio: parvachhatrola.me" src="https://img.shields.io/badge/Portfolio-parvachhatrola.me-111212?style=flat-square"></a>
-  <a href="https://www.linkedin.com/in/parva-chhatrola-0272a8346/"><img alt="LinkedIn: Parva Chhatrola" src="https://img.shields.io/badge/LinkedIn-Parva%20Chhatrola-0A66C2?style=flat-square"></a>
-  <a href="mailto:parva@ieee.org"><img alt="Email: parva@ieee.org" src="https://img.shields.io/badge/Email-parva%40ieee.org-00629B?style=flat-square"></a>
+  <a href="https://parvachhatrola.me"><img src="/assets/btn-portfolio.svg" height="56" alt="Portfolio: parvachhatrola.me"></a>
+  <a href="https://www.linkedin.com/in/parva-chhatrola-0272a8346/"><img src="/assets/btn-linkedin.svg" height="56" alt="LinkedIn: Parva Chhatrola"></a>
+  <a href="mailto:parva@ieee.org"><img src="/assets/btn-email.svg" height="56" alt="Email: parva@ieee.org"></a>
 </p>
 
 I build LLM apps, AI voice pipelines and the full stack products around them. I'm drawn to AI that holds up outside a demo: tool calling, structured outputs and guardrails, tuned for real-world reliability.
@@ -17,10 +12,9 @@ I'm open to internships and project work in AI/ML and full stack.
 
 ## Highlights
 
-- **First Runner-Up out of 550+ teams** at the IBM Bob AI Hackathon × CHARUSAT, winning ₹25,000 with YieldGuard as part of Team DuckDuckGo
-- **Built a full-scale Laboratory Information Management System** as an intern at Gujarat State Fertilizers & Chemicals Ltd. (GSFC)
-- **Top 6 out of 45 teams** at the Futurrizon × CHARUSAT Hackathon with an AI sales agent platform
-- **Chairperson of the IEEE Computer Society chapter** at CHARUSAT Student Branch for the 2025–26 term
+<picture>
+  <img src="/assets/highlights.svg" width="100%" alt="First Runner-Up out of 550+ teams at the IBM Bob AI Hackathon × CHARUSAT, winning ₹25,000 with YieldGuard as part of Team DuckDuckGo. Built a full-scale Laboratory Information Management System as an intern at Gujarat State Fertilizers & Chemicals Ltd. (GSFC). Top 6 out of 45 teams at the Futurrizon × CHARUSAT Hackathon with an AI sales agent platform. Chairperson of the IEEE Computer Society chapter at CHARUSAT Student Branch for the 2025–26 term.">
+</picture>
 
 ## Projects
 

@@ -1,0 +1,10 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 228 84" width="228" height="84" role="img" aria-label="LINKEDIN">
+<title>LINKEDIN</title>
+<g transform="rotate(1 114 42) translate(8 6)">
+<rect y="6" width="212" height="60" rx="13" fill="#000" opacity=".28"/>
+<rect width="212" height="60" rx="13" fill="#a1dfc5"/>
+<rect x="10" y="10" width="40" height="40" rx="9" fill="#111212"/>
+<g transform="translate(10 10)" fill="none" stroke="#a1dfc5" stroke-width="3" stroke-linecap="round" stroke-linejoin="round"><path d="M14 28l-2.6 0l0-12.3l2.6 0l0 12.3zM12.7 14l0 0q-.7 0-1.3-.5q-.5-.5-.5-1.2l0 0q0-.8 .5-1.3q.6-.5 1.3-.5l0 0q.8 0 1.3 .5q.5 .5 .5 1.3l0 0q0 .7-.5 1.2q-.5 .5-1.3 .5zM20.4 28l-2.6 0l0-12.3l2.5 0l0 1.8l.4 0q.4-.7 1.3-1.4q.9-.6 2.7-.6l0 0q1.4 0 2.4 .6q1.1 .6 1.8 1.8q.6 1.1 .6 2.7l0 0l0 7.4l-2.6 0l0-7.2q0-1.6-.8-2.4q-.8-.7-2.2-.7l0 0q-1.6 0-2.6 1q-.9 1.1-.9 3.1l0 0l0 6.2z" fill="#a1dfc5" stroke="none"/></g>
+<path d="M75.2 38l-9.5 0l0-14.7l2.2 0l0 12.7l7.3 0l0 2zM89.1 38l-8.6 0l0-2l3.2 0l0-10.7l-3.2 0l0-2l8.6 0l0 2l-3.2 0l0 10.7l3.2 0l0 2zM96.2 38l-2.1 0l0-14.7l2.1 0l6.2 10.8l0-10.8l2.1 0l0 14.7l-2.2 0l-6.1-10.8l0 10.8zM111.3 38l-2.2 0l0-14.7l2.2 0l0 6.7l5.2-6.7l2.8 0l-5.8 7.3l0 .1l5.9 7.3l-2.8 0l-5.3-6.6l0 6.6zM133 38l-9.4 0l0-14.7l9.4 0l0 2l-7.1 0l0 4.3l6.5 0l0 2l-6.5 0l0 4.4l7.1 0l0 2zM141.2 38l-3.6 0l0-14.7l3.6 0q3.5 0 5.2 2q1.8 1.9 1.8 5.4l0 0q0 3.4-1.8 5.3q-1.7 2-5.2 2l0 0zM139.9 25.4l0 10.5l1.2 0q2.6 0 3.7-1.4q1.1-1.4 1.1-3.8l0 0q0-2.5-1.1-3.9q-1.1-1.4-3.7-1.4l0 0l-1.2 0zM161.5 38l-8.6 0l0-2l3.2 0l0-10.7l-3.1 0l0-2l8.5 0l0 2l-3.1 0l0 10.7l3.1 0l0 2zM168.6 38l-2.1 0l0-14.7l2.2 0l6.1 10.8l0-10.8l2.2 0l0 14.7l-2.2 0l-6.2-10.8l0 10.8z" fill="#111212"/>
+</g>
+</svg>
