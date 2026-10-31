@@ -77,15 +77,15 @@ My personal site, built with React and Vite and deployed to GitHub Pages through
 | Odoo × CHARUSAT Hackathon | — | Tax-saving web solution for small businesses |
 | Google Developers Group 7-Day Hackathon | Competed across 3 progressive rounds, easy to advanced | — |
 
-## Skills
+## Tech stack
 
-| Area | Skills |
-| --- | --- |
-| AI / ML | Python, Machine Learning, LLMs, Prompt Engineering, Groq, Sarvam AI |
-| Web | JavaScript, TypeScript, React, Next.js, Express, MongoDB |
-| Data | SQL, Power BI |
-| Tools | GitHub, GitHub Actions, Docker, Figma |
-| Product | Requirements Gathering, Documentation |
+<p align="center">
+  <img src="/assets/tech-stack.svg" alt="Python, JavaScript, TypeScript, HTML, CSS, React, Next.js, Node.js, Express, Django, Tailwind CSS, Vite, MongoDB, Docker, GitHub Actions, Git, GitHub and Figma">
+</p>
+
+<p align="center">
+  <b>Also:</b> Machine Learning, LLMs, Prompt Engineering, Groq, Sarvam AI, SQL, Power BI, Requirements Gathering, Documentation
+</p>
 
 ## Education
 
