@@ -13,20 +13,32 @@ I'm open to internships and project work in AI/ML and full stack.
 ## Highlights
 
 <picture>
-  <img src="/assets/highlights.svg" width="100%" alt="First Runner-Up out of 550+ teams at the IBM Bob AI Hackathon × CHARUSAT, winning ₹25,000 with YieldGuard as part of Team DuckDuckGo. Built a full-scale Laboratory Information Management System as an intern at Gujarat State Fertilizers & Chemicals Ltd. (GSFC). Top 6 out of 45 teams at the Futurrizon × CHARUSAT Hackathon with an AI sales agent platform. Chairperson of the IEEE Computer Society chapter at CHARUSAT Student Branch for the 2025–26 term.">
+  <img src="/assets/highlights.svg" width="100%" alt="First Runner-Up out of 550+ teams at the IBM Bob AI Hackathon × CHARUSAT, winning ₹25,000 with YieldGuard as part of Team DuckDuckGo. Built a full-scale Laboratory Information Management System as an intern at Gujarat State Fertilizers & Chemicals Ltd. (GSFC). Top 7 out of 45 teams at the Chaos2Commit hackathon by Futurrizon × CHARUSAT with KHOJ.AI. Chairperson of the IEEE Computer Society chapter at CHARUSAT Student Branch for the 2025–26 term.">
 </picture>
 
 ## Projects
+
+### KHOJ.AI (खोज.AI)
+
+**AI that finds real work for companies and people, calls to qualify it, and books the meeting.** *Khoj* means "search" in Hindi. I was team leader, building it with Jenil Bhisra and Mahaan Thakkar for the Chaos2Commit hackathon by Futurrizon × CHARUSAT, where we reached the Top 7 out of 45 teams.
+
+<p align="center">
+  <img src="/assets/khoj-call-analysis.webp" width="49%" alt="KHOJ.AI call page with an AI summary, interest score of 82 out of 100, qualification details, key moments and a follow-up email draft, using demo data">
+  <img src="/assets/khoj-lead-discovery.webp" width="49%" alt="KHOJ.AI Lead Discovery page with suggested search phrases, target industries, locations and public sources such as EU, UK and US tenders, using demo data">
+</p>
+
+- **For companies:** finds matching public tenders, projects and job posts, scores each one from 0 to 100 with quoted evidence, links it to the original post, and looks up missing contacts on the company's own website.
+- **For freelancers and job seekers:** turns a CV into a profile and finds matching work. If they opt in, companies can talk to their personal AI agent, which answers only from that profile, and propose a meeting.
+- **AI voice agent:** asks about need, budget, decision-maker and timing, holds the conversation in English, Hindi or Gujarati, and always says it's an AI. Calls end with a summary, transcript, interest score and follow-up email draft. Tested through browser calls and a live Twilio phone call.
+- **Also:** an interface in English, Hindi, Gujarati and Spanish, an in-app helper called Ask KHOJ, an admin console with fraud flags and an audit log, and about 800 backend tests.
+
+`React` `TypeScript` `FastAPI` `PostgreSQL` `Twilio` `Sarvam AI` `Groq` `Gemini` `Capacitor`
 
 ### [YieldGuard](https://github.com/Parva-28/bob-ai-hackathon-DuckDuckGo)
 
 AI root-cause assistant for semiconductor wafer yield, built with Team DuckDuckGo. It classifies wafer-map defects with a CNN (macro-F1 of 0.9232 on a held-out split of 9,357 maps), scores sensor anomalies with an Isolation Forest, and uses watsonx.ai to rank root causes, with every hypothesis citing its evidence.
 
 `Python` `PyTorch` `FastAPI` `Next.js` `TypeScript` `IBM Bob` `MCP` `watsonx.ai`
-
-### AI Sales Agent Platform
-
-End-to-end AI sales platform that discovers and enriches leads, places automated AI voice calls to pitch and book meetings, and sends email and SMS confirmations and reminders for every meeting. It also covers market intelligence, lead management, CRM integration and sales analytics, with role-based dashboards for individual users, businesses and platform admins behind a single login.
 
 ### EmoDiary
 
@@ -65,7 +77,7 @@ My personal site, built with React and Vite and deployed to GitHub Pages through
 | Hackathon | Result | Project |
 | --- | --- | --- |
 | IBM Bob AI Hackathon × CHARUSAT | First Runner-Up out of 550+ teams, ₹25,000 prize | YieldGuard |
-| Futurrizon × CHARUSAT Hackathon | Top 6 out of 45 teams | AI Sales Agent Platform |
+| Chaos2Commit, Futurrizon × CHARUSAT | Top 7 out of 45 teams | KHOJ.AI |
 | RECKON 7.0, JIET College, Jodhpur | National finals | EmoDiary |
 | MSBC Hackathon | National finals | Meeting Monitor |
 | Odoo × CHARUSAT Hackathon | — | Tax-saving web solution for small businesses |
